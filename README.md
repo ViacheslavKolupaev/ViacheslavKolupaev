@@ -1,5 +1,9 @@
 👋 Привет, я @ViacheslavKolupaev
 
+💬 Пожалуйста, не стесняйтесь написать мне:
+- [LinkedIn](https://www.linkedin.com/in/vkolupaev/)
+- [Telegram](https://t.me/vkolupaev/)
+
 ## 🧔 Кто я
 
 **Data Scientist / Machine Learning Engineer (Python).** Ещё я: отец, муж и сын, коллега, старший по подъезду в многоквартирном доме. 
