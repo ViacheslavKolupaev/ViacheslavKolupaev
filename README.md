@@ -1,7 +1,5 @@
 👋 Привет, я @ViacheslavKolupaev
 
-# Обо мне
-
 ## 🧔 Кто я
 
 **Data Scientist / Machine Learning Engineer (Python).** Ещё я: отец, муж и сын, коллега, старший по подъезду в многоквартирном доме. 
@@ -122,7 +120,7 @@
 Footnotes
 =========
 
-1. <span id="f1"></span> In progress. [$\hookleftarrow$](#a1)
+1. <span id="f1"></span> In progress. [←](#a1)
 
 <!---
 ViacheslavKolupaev/ViacheslavKolupaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
