@@ -1,17 +1,18 @@
 👋 Hi, I am [@ViacheslavKolupaev](https://t.me/vkolupaev/).
 
 ## 🧔 Who am I
-I am a **Software Engineer (Python, back-end)**. From March 2022, I moved to the position of **Machine Learning Engineer**.
+I am a **Software Engineer (Python, back end)**. I specialize in projects at the intersection of Software Engineering, Data Science, and DevOps.
 
-I have been programming in `Python 3` for more than 3 years: REST API, ML pipelines, asynchronous applications, 
-microservices.
+I enjoy building tools and systems that make it easy for software development and delivery of code to production.
+
+I love ❤️ programming since school.
 
 On my personal site ([https://vkolupaev.com/](https://vkolupaev.com/)) you can read about: 
 1. 🛠 my tech stack;
 2. 👍 which companies and projects are attractive to me;
 3. ⛔️ and which ones are not. 
 
-👌 If there is a match, then we can continue communication. Please feel free to write to me 👇
+Please feel free to write to me 👇
 
 ## 💬 Contacts
 
